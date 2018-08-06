@@ -1,0 +1,142 @@
+links.txt
+Created Tue May 23 09:37:26 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Dock related links
+
+
+
+Links
+=====
+2016 MacBook Pro USB-C/Thunderbolt Survival Guide
+October 30, 2016 By Stephen 128 Comments
+http://blog.fosketts.net/2016/10/30/2016-macbook-pro-usb-cthunderbolt-survival-guide/
+
+Connect with Thunderbolt 3 on your new MacBook Pro
+MacBook Pro models introduced in 2016 feature Thunderbolt 3 (USB-C) ports
+that let you connect devices and displays, charge your computer, and
+provide power to connected devices—all through one simple, compact USB-C
+connector.
+https://support.apple.com/en-us/HT207256
+
+Explaining Thunderbolt 3, USB-C, and Everything In Between
+by Glenn Fleishman
+http://tidbits.com/article/16870
+
+Happy Hacking Keyboard, OSX Configuration
+Happy Hacking Keyboard Pro 2 
+http://trialanderror.io/programming%20keyboards/happy_hacking_keyboard_osx_setup/
+
+Happy Hacking Keyboard Pro 2 (HHKB)
+by PFU Limited out of Japan
+https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard
+
+Happy Hacking Professional 2 (Dark Gray)
+https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400b
+
+Happy Hacking Professional 2 (White/Gray)
+https://elitekeyboards.com/products.php?pid=pdkb400w
+
+Henge Tethered Dock
+o Thunderbolt 3
+https://hengedocks.com/products/tethered-dock#HD01TATBT3
+
+How many external displays can I connect through the docking station?
+All of our docking stations allow as many displays as the MacBook can
+natively support.  A docking station would never allow you to connect
+more displays than your MacBook is capable of outputting to.  As of
+the writing of this article, that is between one and four displays
+depending on the specific MacBook.  If you are unsure how many displays
+your MacBook can output to you can look up your specific model here.[1]
+
+How to enable unsupported Thunderbolt 3 devices on the 
+MacBook Pro using ‘TB3 Enabler’ hack
+Jeff Benjamin - Nov. 21st 2016 7:41 am PT  @JeffBenjam
+https://9to5mac.com/2016/11/21/tb3-enabler-enable-unsupported-thunderbolt-3-devices-hack-macbook-pro/
+
+How to Use and Troubleshoot the Dell Thunderbolt Dock (TB16)
+https://www.dell.com/support/article/us/en/19/SLN301075/how-to-use-and-troubleshoot-the-dell-thunderbolt-dock--tb16-?lang=EN
+
+For information about what you would need to set up a docking station,
+click here.[2]
+[1] https://support.apple.com/en_US/specs/
+[2] http://support.hengedocks.com/support/solutions/articles/11000028893
+http://support.hengedocks.com/support/solutions/articles/11000024234-how-many-external-displays-can-i-connect-through-the-docking-station-
+
+How to use a second display with a Mac
+This page has the best DVI-A, DVI-D, and DVI-I pinouts I've even seen.
+http://www.macworld.co.uk/how-to/mac/how-use-second-display-screen-mac-3621421/
+
+Vertical Docking Station
+for New MacBook Pro
+https://hengedocks.com/pages/vertical-macbook-pro-2016
+
+How To: Utilize Dual Displays with your MacBook
+Jul 13, 2016
+https://hengedocks.com/blogs/henge-docks-blog/how-to-utilize-dual-displays
+
+Looking for a dock for your Touch Bar MacBook Pro?
+Henge Docks has three to choose from
+The Tethered Docking Station, Horizontal Docking Station,
+and Vertical Docking Station unite in a battle against the dongles.
+o Vertical Docking Station - pass-through connectors to the laptop’s
+  Thunderbolt 3 ports.
+o Tethered Dock Thunderbolt 3
+  - MacBookPro13,1, MacBookPro13,2, MacBookPro13,3
+o Addons:
+  - USB-C VGA Multiport Adapter
+  - USB-C to USB Adapter
+  - USB-C to Lightning cable (2 m)
+http://www.macworld.com/article/3154830/macbook-accessories/looking-for-a-dock-for-your-touch-bar-macbook-pro-henge-has-three-to-choose-from.html
+
+StarTech.com Thunderbolt 3 Dock - 4K - Macbook and Windows Docking Station
+- Thunderbolt 3 to USB-C / USB 3.0 / Gigabit Ethernet / Audio
+price: $201.50 (amazon prime - May 23, 2017)
+https://www.amazon.com/StarTech-com-Thunderbolt-Dock-Macbook-Ethernet/dp/B01MSEKBNM/ref=sr_1_7?ie=UTF8&qid=1495564869&sr=8-7&keywords=owc+thunderbolt+dock
+
+Tech Specs
+Browse Tech Specs by Product
+Search for:
+  macbook pro 2016
+===> MacBook Pro (15-inch, 2016) - Technical Specifications
+     Video support:
+       o Up to two displays with 5120-by-2880 resolution at 60Hz
+         at over a billion colors
+       o Up to four displays with 4096-by-2304 resolution at 60Hz
+         at over a billion colors
+
+       Thunderbolt 3 digital video output
+       o Native DisplayPort output over USB‑C
+       o VGA, HDMI, and Thunderbolt 2 output supported using
+         adapters (sold separately)
+     https://support.apple.com/kb/SP749?viewlocale=en_US&locale=en_US
+https://support.apple.com/en_US/specs/macbook%2520pro%25202016
+
+The New OWC Thunderbolt 3 Dock
+13 ports, endless possibilities.
+price: $299.00
+Looks nice but preorder only.
+https://eshop.macsales.com/preorder/owc-thunderbolt-3-dock/
+
+TB16 - Dual Monitor Help With Late-2016 MacBook Pro
+Interesting thread
+This user never got the Dell TB16 to work with MacBook Pro. ~May, 2017
+https://www.reddit.com/r/Dell/comments/5rl3zb/tb16_dual_monitor_help_with_late2016_macbook_pro/
+
+Thunderbolt 3
+The USB-C that does it all
+https://thunderbolttechnology.net/consumer/?lang=en
+
+Vertical Docking Station
+Henge Docks
+Thunderbolt 3 doc looks good.
+To get details:
+  click apple > About This Mac > System Report...
+  Model Identifier: MacBookPro13,3
+https://hengedocks.com/pages/vertical-macbook-pro-2016
+https://hengedocks.com/pages/tethered-docks
+http://support.hengedocks.com/support/solutions/articles/11000025673-how-do-i-figure-out-which-dock-will-work-with-my-macbook-
+
+
+
