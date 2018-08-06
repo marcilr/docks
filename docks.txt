@@ -1,0 +1,22 @@
+docks.txt
+Created Tue May  9 08:32:03 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Need dock for MacBook Pro at home and work.
+
+
+Thunderbolt 3 Express Dock HD (40 Gbps) (Shipping mid-June)
+price: $349.99
+NOTE: Very nice but not shipping yet.
+http://www.belkin.com/us/p/P-F4U095/
+￼
+Dell 3GMVT Thunderbolt Dock TB16, 240W, black
+price: $252.39 (amazon - May 9, 2017)
+
+StarTech.com Thunderbolt 3 Docking Station for
+PC Laptops - Windows Only - Dual-4K - Ethernet/Audio/USB Ports
+by StarTech
+NOTE: Think this only support 2x displays
+price: $199.99 (amazon prime - May 9, 2017)
+
