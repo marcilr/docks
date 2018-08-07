@@ -5,23 +5,23 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-dell-dock-20170608.pdf
-  Quick chat with Dell where they recommended
-  the Dell Business Thunderbolt Dock - TB16 with 240W Adapter
-  for use with the last 2016 Mac Book Pro with 4x Thunderbolt
-  ports.
+belkin/
+  Belkin Docks
+
+dell/
+  Dell Docks
 
 docks.txt
   Docks
 
-henge.txt
+henge/
   Henge Docks
-
-startech.txt
-  StarTech.com Thunderbolt 3 Dock - 4K -
-  Macbook and Windows Docking Station -
-  Thunderbolt 3 to USB-C / USB 3.0 /
-  Gigabit Ethernet / Audio2
 
 links.txt
   Dock related links
+
+manifest
+  Manifest for resync application
+
+startech/
+  StarTech Docks
